@@ -1,0 +1,6 @@
+{
+  "name": "PIXORA",
+  "description": "Premium all-in-one photography client gallery, proofing, delivery, and business management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
